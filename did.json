@@ -5,7 +5,7 @@
     {
       "id": "#veganhumor_fg",
       "type": "BskyFeedGenerator",
-      "serviceEndpoint": "https://<your-username>.github.io/vegan-humor-feed/"
+      "serviceEndpoint": "https://veganhashtag.github.io/vegan-humor-feed/"
     }
   ]
 }
