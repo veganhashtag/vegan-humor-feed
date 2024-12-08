@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:vegan-humor-feed.com",
+  "service": [
+    {
+      "id": "#veganhumor_fg",
+      "type": "BskyFeedGenerator",
+      "serviceEndpoint": "https://<your-username>.github.io/vegan-humor-feed/"
+    }
+  ]
+}
